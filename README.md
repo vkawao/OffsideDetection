@@ -20,10 +20,11 @@ You can download images for testing the program [by clicking here!](https://driv
 
 # **How to use**
 1. Run the program
-2. Upload an image of a potential Offside violation
-3. Adjust HSV parameters so that Team A and Team B are separated clearly and referees are not a part of a team
-4. Click Confirm
-5. Offside Decision!
+2. Upload an image of a potential Offside violation (Make sure you know which team is attacking, and which side they are attacking first!)
+3. Adjust HSV parameters so that Team A and Team B are separated clearly, and referees are not a part of a team
+4. Adjust Match Configuration (Who's attacking, which direction)
+5. Click Confirm
+6. Offside Decision!
 
 **👨‍🏫 Notes**
 
